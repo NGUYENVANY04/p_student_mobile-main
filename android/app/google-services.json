@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "339823589348",
+    "firebase_url": "https://p-care-e73a4-default-rtdb.firebaseio.com",
+    "project_id": "p-care-e73a4",
+    "storage_bucket": "p-care-e73a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339823589348:android:553ff828f37bfe6085b9f1",
+        "android_client_info": {
+          "package_name": "com.example.p_student_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339823589348-113fquh7i7esps00i9ut8ol00jer1rut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9cbR1HZ5zfRz_L17U97Ng-xn9Wxuru4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339823589348-113fquh7i7esps00i9ut8ol00jer1rut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
